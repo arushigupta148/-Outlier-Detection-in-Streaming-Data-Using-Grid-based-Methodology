@@ -1,26 +1,3 @@
-Last login: Fri Jul 27 12:16:07 on ttys000
-Arushis-MacBook-Pro-2:~ arushigupta148$ ssh agupta1@129.210.16.80
-agupta1@129.210.16.80's password: 
-Last login: Fri Jul 27 14:21:57 2018 from c-73-70-29-73.hsd1.ca.comcast.net
-+------------------------------------ALERT------------------------------------
-| (07/27/18) The ECC will be closed starting Dec. 10th 2018.  The labs
-|            along with the rest of engineering will be moving to the
-|            Heafey/Bergin buildings; where the law school use to be.
-|            We will be open for operations on Jan. 7th 2019.
-|            Please plan accordingly.
-
-[agupta1@linux60810 ~]$ ls
-AutoTestDir  coen281  Documents  Library  Pictures  Templates  Videos
-coen241      Desktop  Downloads  Music    Public    user1
-[agupta1@linux60810 ~]$ cd coen281
-[agupta1@linux60810 coen281]$ ls
-Autotest  P0  P1  P2  Submit
-[agupta1@linux60810 coen281]$ cd P2
-[agupta1@linux60810 P2]$ ls
-Makefile  P2.class  P2.java
-[agupta1@linux60810 P2]$ vi P2.java
-
-
 
 import java.io.*;
 import java.util.ArrayList;
